@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dispute between James Nayler and the parish teachers of Chesterfield by a challenge against him with several passages by letters, occasioned by a bull-bayting wherein the simple may see the bloody intents of those men under fair colour, when they speak of peace, war is in their hearts.</title>
+            <author>Naylor, James, 1617?-1660.</author>
+         </titleStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52686</idno><idno type="EEBO-CITATION">11770904</idno>
+  <idno type="VID">48855</idno>
+  <idno type="EEBO-PROQUEST">2248522513</idno>
+  
+            <idno type="STC">Wing N275</idno>
+            <idno type="STC">ESTC R31071</idno>
+            <idno type="OCLC">11770904</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A52686)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48855)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1489:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dispute between James Nayler and the parish teachers of Chesterfield by a challenge against him with several passages by letters, occasioned by a bull-bayting wherein the simple may see the bloody intents of those men under fair colour, when they speak of peace, war is in their hearts.</title>
+                  <author>Naylor, James, 1617?-1660.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert and are to be sold at his shop,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained with loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title">
+            <pb facs="tcp:48855:1"/>
+            <pb facs="tcp:48855:1"/>
+            <p>A DISPUTE between <hi>James Nayler</hi> and the Parish Teachers of Chesterfield, by a Challenge against him.</p>
+            <p>With several Passages by Letters, occasioned by a Bull-bayting.</p>
+            <p>
+               <hi>Wherein the simple may see the bloody intents of those men under fair Colours; when they speak of peace, War is in their hearts.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Gyles Calvert,</hi> and are to be sold at his shop at the <hi>Black Spread Eagle,</hi> at the West end of PAU<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>S, 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>BEing moved of the Lord to go to <hi>Chesterfield</hi> about the 20. day of the 10. moneth, and coming to the house of <hi>John Firth,</hi> as I was in the house I heard a confused noise in the Town, whoting, yelling, and swearing, about a Bull-bating; whereat being much troubled in spirit, I waited to know the Will of God, what he would have me to do; whether I should go and de<g ref="char:EOLhyphen"/>clare against that their ungodly practise; but after I had waited a while I was moved to write to him that is called their Teacher, and was shewed that I must lay the thing upon him, being the cause why the people knew no better, but perish under him for want of knowledge; whereupon I writ as followeth.</p>
+                  <p>To thee who cals thy self a Minister of Jesus Christ, and pretends to be cal<g ref="char:EOLhyphen"/>led to this Town of <hi>Chesterfield</hi> this people to teach, but this day is the fruits of thy Ministry manifest, in the open streets, a multitude gathered to sport themselves, in setting one of the creatures of God against another to torment, and thy people thou teaches, whoting, yelling, swearing and cursing, and blas<g ref="char:EOLhyphen"/>pheming the dreadful name of God; Is this thy Ministry, and these thy Bre<g ref="char:EOLhyphen"/>thren, with whom thou joyns to worship the living God? Oh how dare you take his name into your mouths? Did ever any Minister of Christ lead a people thus, or own such a people to maintain them? Oh shame that ever you should own the name of Christians, those that never heard of the name of Christ, shall rise up in judgment against you: Is this the voice that this day is heard in your streets? or are these the people God accepts when you pray? Nay, your prayers is abomination to God, and you never knew him, that lives in these things, or joyns with them; Didst thou love God, thou could not suffer these things and be silent; O thou man-pleaser! I declare to thee this day, in
+<pb facs="tcp:48855:2"/> the presence of the Lord, that God hath a controversie with thee, and the rest of thy Generation, who hath suffered these wickedness to lie upon his people, so that he cannot be reconciled to them nor they know him because of their sins; and you daub them, and call them Christians and thus they perish under you for want of knowledge of God, and yet you cry peace and tels them they cannot be free from sin, nor know God, as the children of God have ever done; and thus you strengthen the hands of the wicked, so that none turns from his wickedness, but God is risen to cut you off, and to deliver his people out of your mouths upon whom you have made a prey; and wo unto you it had bin good for you that you had never bin born; and in that day thou shalt witness that this is the word of God.</p>
+                  <closer>
+                     <signed>Written by one that seeks the good of souls, called <hi>James Nayler.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>For this writing complaint was made at a meeting of Justices, and much means was used to raise persecution, and the man of the house where I writ it was sent for, and examined about it, and <hi>John Billingsley</hi> the Priest of <hi>Chester<g ref="char:EOLhyphen"/>field</hi> said oftentimes, and before many hundreds of people, that <hi>I deserv'd to be h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng'd for these words writing;</hi> but not prevailing at that time another plot was laid under pretense of a Dispute, to get me within compass of their Law, and a letter was sent after me, challenging a meeting in the steeple house at <hi>Chesterfield</hi> the 3. day of the moneth called <hi>January,</hi> with the Questions they would dispute on, which were in these words following.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="queries">
+                        <head>
+                           <hi>For</hi> James Nayler <hi>wandering Quaker, and his fellow Seducers, Persecuters of the faithful Ministers of the Gospel of Christ.</hi>
+                        </head>
+                        <p>I Perceive by the Papers sent by thee, and other thy fellows, to my self, and other my Bre<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>hren in the Ministry of the Gospel, that thou spreadest wicked errors, and forgest abomi<g ref="char:EOLhyphen"/>nable lies against the servants of Christ; Therefore if thou hast a mind to meet in a way of Christian conference, and be willing. First, That only one shall speak at once: Secondly, That what is spoken on both sides, shall presently be committed to writing, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o be published to the Congregation at the end of every Argument and Question at the furthest; Then I shall <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ive thee a meeting (God-willing) to confer with thee, upon these Questions, and upon any other afterward as shall be agreed upon.</p>
+                        <p>
+                           <hi>Whether the Spirit of God speaking in the Scriptures, be the chief Judge of <label type="milestone">
+                                 <seg type="milestoneunit">Quest. </seg>1</label> controversies of Faith?</hi> I affirm it, prove the contrary if you can.</p>
+                        <p>
+                           <hi>Whether the private spirit in the Pope, or in any Q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>akers, be the chief judge <label type="milestone">
+                                 <seg type="milestoneunit">Qu. </seg>2</label> of any controversies of Faith:</hi> I deny it, prove the contrary if you can.</p>
+                        <p>
+                           <hi>Whether Christ or his Apostles did preach in the Synagogues or publike <label type="milestone">
+                                 <seg type="milestoneunit">Qu. </seg>3</label> meeting places, or upon any Text of Scripture?</hi> I affirm it, prove the contra<g ref="char:EOLhyphen"/>ry if you can.</p>
+                        <p>
+                           <hi>Whether every man be bound to look to the light within him for his dire<g ref="char:EOLhyphen"/>ction <label type="milestone">
+                                 <seg type="milestoneunit">Qu. </seg>4</label> to attain salvation?</hi> I deny it, prove the contrary if you can.</p>
+                        <p>
+                           <hi>Whether you Quakers have any lawful call from God to leave your particu<g ref="char:EOLhyphen"/>lar <label type="milestone">
+                                 <seg type="milestoneunit">Qu. </seg>5</label>
+                              <pb facs="tcp:48855:2"/>
+                              <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>n<gap reason="illegible" resp="#keyers" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>ngs or <gap reason="illegible" resp="#keyers" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>
+                              <gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap> w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>nder up and down the Nation publishing doctrines contrary to the doctrine of Christ?</hi> I deny it, prove it if you can.</p>
+                        <p>
+                           <hi>Whether it be lawful for you Quakers publikely before our Congregations, by <label type="milestone">
+                                 <seg type="milestoneunit">Qu. </seg>
+                              </label> word, and writing, or otherwise, to revile and slander the Ministers of Christ, calling them thieves, murtherers, hypocrites, antichrists, s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ducers, and such like?</hi> I deny it, prove the contrary if you can.</p>
+                        <p>
+                           <hi>Whether it be lawful to call any man master or father upon earth?</hi> I affirm it. <label type="milestone">
+                              <seg type="milestoneunit">Qu. </seg>
+                           </label>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>If you will meet upon the 3<seg rend="sup">d</seg> day of the 11. moneth, commonly called the 3<seg rend="sup">•</seg> of January next, being wednesday come sevennight, in the publike meeting place at Chesterfield, you shall (God willing) find those who will be ready to def<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd the truth, and oppose your <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </p>
+                  <closer>
+                     <dateline>Cheste<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>field <date>Decemb. 23. 1654.</date>
+                     </dateline>
+                     <signed>John Billingsley.</signed>
+                  </closer>
+                  <postscript>
+                     <p>If you engage to give us a meeting upon the terms before mentioned, let me have certain notice within these four days under your <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>and.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>This challenge I received when I was about twenty miles from <hi>Chester field,</hi> and writ an answer to it as followeth;</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>THose who trembled and quaked at the word of the Lord, was ever hated and scorned<note place="margin">
+                        <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                        <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </note> by those who talked of the Letter, but knew not the word, but cast out such as heard the<note place="margin">1 <hi>Cor.</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, 1, 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, 1.</note> word, and trembled at it; and for a pretense said, let God be glorified; and such being cast out, was ever strangers and wanderers, who had no certain dwelling place; and in such the Son of man is manifest, who hath not whereon to lay his head; and to such thou appear to<note place="margin">
+                        <hi>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>b.</hi> 1, 2.</note> be an enemy, which ever was the faithful ministers of the Gospel; who never persecuted any, but was beat in the Synagogue<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and haled to prison; as now they are by the false Prophets &amp; Hirelings, against whom they was sent to bear witness, who therefore stirred up the power<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of the earth against them (for there their strength ever lay) as now the prisons are filled by thy generation, a witness against you, and yet thou art not ashamed to call me Persecuter, who hath often suffered by you, but never persecuted any; and in the presence of the Lord I charge thee to be a Lyar, till thou prove whom I have persecuted. And for my Paper I se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t to thee, or any of thy Brethren, I charge thee to prove what wicked errors or forged lyes there is in it And were thou a servant of Christ, thou would be ashamed of such practise whereof I wrote to thee in my paper, and not have envied me for it. And for thy questions, wherein thou hast shewed thy ignorance of the spirit of God, and his Call to the Ministry, I shall re<g ref="char:EOLhyphen"/>turn the answer thus.</p>
+                  <p>
+                     <hi>The Spirit of God speaking in the holy men of God, by which the Scriptures <label type="milestone">
+                           <seg type="milestoneunit">Qu. </seg>
+                        </label> were given forth as they are moved, was and is the chief <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>udg of all controver<g ref="char:EOLhyphen"/>sies, <label type="milestone">
+                           <seg type="milestoneunit">answ. </seg>
+                        </label> and by that spirit was all controversies judged before the letter was, which judgement the Letter declares of as is plain,</hi> Exod. 18. 16. 1 King. 3. 1 Cor. 2. 15, 16. 1 Joh. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 20. 27. 1 Cor. 10. 15. &amp; 14. 26. <hi>and this spirit speaks not in the dead, but in the living.</hi>
+                  </p>
+                  <p>
+                     <hi>That spirit which in all ages bare witness against such which sought for their <label type="milestone">
+                           <seg type="milestoneunit">Qu. </seg>
+                        </label> gain from their quarters, b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re rule by their means▪ were called of men masters, had the chief place in assemblies stood praying in the Synagogues, laid heavie burdens upon the people, &amp;c. was not a private spirit, though it was but in one against hundreds, which spirit testifies against all the world, and its invented worships, pride and covetousness, and its the same at this day, and thats the
+<pb facs="tcp:48855:3"/> private spirit, and the spirit of the Pope that lives in the contrary, holding up the popish worship in popish houses, by popish laws; beating and imprisoning such as bear witness against these Popish ways and worships; and by that spirit do the Quakers now suffer: which witness the spirit of judgement, where there is no controversie, which thou denies, who art in opinions and controversies.</hi>
+                  </p>
+                  <p>
+                     <hi>Christ went into the Synagogues and Temple▪ who preached the end of Tem<g ref="char:EOLhyphen"/>ple, <label type="milestone">
+                           <seg type="milestoneunit">Qu. </seg>3</label> and Temple worship, and held forth the worship in spirit, which being fulfil<g ref="char:EOLhyphen"/>led,</hi>
+                     <note place="margin">
+                        <hi>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h.</hi> 4.</note>
+                     <hi>the Apostles went to call out of the Synagogues and Idols temples, and said,</hi>
+                     <note place="margin">
+                        <hi>Cor.</hi> 6. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note>
+                     <hi>God did not dwell in Temples made with hands; and who believed in Christ,</hi>
+                     <note place="margin">
+                        <hi>Cor.</hi> 3.</note>
+                     <hi>came out and met no more in the Synagogues, but in private houses, or in the fields and witnessed their bodies the Temples of the living God, and his worship there in spirit; which temples was holy▪ nor did they take a Text, and from that study an hours talk, but said, God had made them able ministers, not of the letter, but of the spirit: though Christ under the Law did read a Scripture to witness it fulfilled in himself; but this will not prove your practise, who preach other mens conditions and not your own, no more then the Apostles going into the Synagogues to call people out, will prove the practise to keep them in, which is quite contrary.</hi> Acts 17. 1, 2, 3, 4.</p>
+                  <p>
+                     <hi>The light of Christ which hath enlightned every one that comes into the <label type="milestone">
+                           <seg type="milestoneunit">Qu. </seg>4</label> world is our light, and to that light is every one bound to look for direction to a tain salvation, according to his own words</hi> John 8. 12. <hi>and this light is spiri<g ref="char:EOLhyphen"/>tual and within, as is plain,</hi> 2 Cor. 4. 6, 7. Luk. 11. 34, 35, 36. <hi>and the Law of the spirit of life is within written in the heart, which is the new covenant of light, and thou that denies this light, art manifest to be one of those builders that refuse the corner stone, which is Christ the light, and knows not the mystery of godliness, which is Christ in us, the hope of glory, and way to attain salvation, nor that spirit of truth in thee that leads into all truths, but art manifest in thy words and practises a child of darkness: speaking and acting contrary to the spi<g ref="char:EOLhyphen"/>ritual Law and testimony, because thou hast denyed the light in thee,</hi> Isa. 8▪ 20. <hi>and the least child of light shall thee judge and comprehend a blind guide, that hast not the light in thee, contrary to the Apostles, who preached the word that was in them, and Christ who is the light in them; but thy light and word is without thee, and not within thee.</hi> Rom. 10. 6, 7, 8.</p>
+                  <p>
+                     <hi>Our call from God we witness, to leave all and follow him as wanderers, who <label type="milestone">
+                           <seg type="milestoneunit">Qu. </seg>5</label> had not whereon to lay his head, and in love to soul to deny our selves, and worldly Interest, to publish the acceptable year of the Lord, and the day of ven<g ref="char:EOLhyphen"/>geance of our God, upon the head of all deceit &amp; deceivers, &amp; those that holds them up who are found in the steps of the pharisees▪ and this is not contrary to the doctrine of Christ, but the same which he practised and those that he called, who left the world his calling to follow, that they might please him that had cal<g ref="char:EOLhyphen"/>led
+<pb facs="tcp:48855:3"/> them; <gap reason="illegible" resp="#keyers" extent="2 words">
+                           <desc>〈◊◊〉</desc>
+                        </gap> de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pest this to be a lawful call, stop thy mo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>h fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ever professing thy self a Minister of Christ who knows not a call out of the world, nor his doctrine who said, He that will not take up his Cross and follow me cannot be my Disciple, but your calling is where you may have all, and not where you must forsake all, you are no such Disciples, nor so taught.</hi>
+                  </p>
+                  <p>
+                     <hi>Those who denies the light of Christ who is the Door▪ and climbs up another <label type="milestone">
+                           <seg type="milestoneunit">Qu. </seg>
+                        </label> way are Thieves, and who beats in prisons, and envies his Brother, is a Mur<g ref="char:EOLhyphen"/>therer; and who professes Christ, but lives contrary, are hypocrites; and who draws from the spiritual teaching, and denies the light of Christ, are seducers, and antichrists, and no ministers of Christs: and publikely to bear witness a<g ref="char:EOLhyphen"/>gainst such in word and writing, is no rayling nor slandering, and in the Tem<g ref="char:EOLhyphen"/>ple and Synagogues have such been denyed by Christ and his ministers; and those who will follow Christ, can do no other at this day, though now you rage as they did.</hi>
+                  </p>
+                  <p>
+                     <hi>Saith Christ, call no man master upon earth, neither be ye called Master, <label type="milestone">
+                           <seg type="milestoneunit">Qu. </seg>
+                        </label> but thou affirms the contrary against his plain commands, and art not ashamed to manifest Antichrist before all men, and no wonder that thou should oppose his family, when thou sets thy self against the Master to set thy self in his stead, that thou maiest be worshiped; and here thy spirit speaks contrary to the Scriptures, and that spirit that spoke forth the Scriptures, and that's the spirit of Antichrist that opposeth the words of Christ.</hi>
+                  </p>
+                  <p>If the Lord will, I shall be at <hi>Chesterfield</hi> the day thou hast appointed, not to serve thy pride, but to bear witness to the truth which thou opposest: and for disorder as speaking more then one at once, look thou to it on thy part, for with me there is not much danger, not knowing any shall be with me, but him alone in whom I stand a witness to the truth, God blessed for ever.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Written from</hi> Elton <hi>near</hi> Bever-Castle,</dateline>
+                     <signed>James N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>yler.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>These answers I would have read before the people, but the Priests was not willing to suffer it, but interrupted me.</p>
+            <p>After I had written this, I returned him back his own Questions in these words as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>Having answered thy Questions, I have returned thee them again, wherein thou may see thy folly, and in plainness return an answer.</p>
+                  <p>
+                     <hi>Whether every one that hath the letter, have the chief judg of all contro<g ref="char:EOLhyphen"/>versies? <label type="milestone">
+                           <seg type="milestoneunit">Quest. </seg>1</label> and whether the chief Judg be devided in himself, seeing you who trade in the letter, and have the judgment from thence, are so full of opinions, contentions, and vain jangling, which by the spirit is judged?</hi>
+                  </p>
+                  <p>
+                     <hi>Whether that proud spirit in the chief Priests &amp; Pharisces, hirelings &amp; false <label type="milestone">
+                           <seg type="milestoneunit">Qu. </seg>
+                        </label>
+                        <pb facs="tcp:48855:4"/> or that which <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>are witness against it, <gap reason="illegible" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> persons was the private spirit? and whether these spirits bring not forth the same fruits now? and whether of these spirits is in the Pope and Popish priests at this day?</hi>
+                  </p>
+                  <p>
+                     <hi>Whether ever any of the Ministers of Christ, after the true Temple was de<g ref="char:EOLhyphen"/>stroyed, <label type="milestone">
+                           <seg type="milestoneunit">Qu. </seg>3</label> did ever lead people into the Synagogues of Idols temples, there to wor<g ref="char:EOLhyphen"/>ship, taking a text of another mans words, which God never spoke to them, and from that, Divine an hours talk by a glass, raising Points, Reasons, Objections, and Answers, stand praying before and after, and have such a sum of tyths or money for so doing, prove thy practise by plain Scripture, and clear it from Po<g ref="char:EOLhyphen"/>pery where it had i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s Rise, or stop thy mouth for ever.</hi>
+                  </p>
+                  <p>
+                     <hi>Whether that Christ who is the light of the world be in every Believer▪ and <label type="milestone">
+                           <seg type="milestoneunit">Qu. </seg>4</label> where he leaves his light when he comes to appear in them, seeing thou denies any light within to be looked to for direction to attain salvation.</hi>
+                  </p>
+                  <p>
+                     <hi>Whether that call wherewith Christ ever called his ministers out o'th world <label type="milestone">
+                           <seg type="milestoneunit">Qu. </seg>5</label> to preach to all Nations according to the Scriptures, be the same now, or when was it changed into tyths, Parsonages, and great houses to dwell in, seing thou denies the first of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>se to be lawful, and hast t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n up the la<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ter.</hi>
+                  </p>
+                  <p>
+                     <hi>How comes those words formerly spoken by Christ, and his ministers, now to <label type="milestone">
+                           <seg type="milestoneunit">Qu. </seg>6</label> be unlawful being spoken to the same generation, who are found in the same pra<g ref="char:EOLhyphen"/>ctises? and had not the chief Priests and Pharisees▪ (who were antichrists and seducers) as good reason to call that reviling &amp; slandering the Ministers, seeing they could prove their call to the Ministery (by the letter) which you can<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>t?</hi>
+                  </p>
+                  <p>
+                     <hi>After Christ had given a command to his Ministers not to be called</hi> M<seg rend="sup">s</seg>. <label type="milestone">
+                        <seg type="milestoneunit">Qu. </seg>7</label>
+                     <hi>when did he command the contrary? and is not he antichrist that teaches not to obey the cōmands of Christ, but affirms &amp; practises the contrary? and whe<g ref="char:EOLhyphen"/>ther the crying your selves up in words to be servants of Christ but being</hi> M<seg rend="sup">rs</seg>. <hi>and Lords in every Town bearing rule by your means, taking mens goods a<g ref="char:EOLhyphen"/>gainst their wills, do not resemble the Pope, who calls himself (in words) the servant of servants, but Rules over Kings where he can get power? and how far you have attempted the like in these Nations, hath been manifest, and whether these be the fruits of the Ministers of Christ?</hi>
+                  </p>
+                  <p>These Answers and Questions I left with the Mayor of the Town to give to the Priest, who did so.</p>
+                  <p>This being written, but before I could get it to him, comes another letter full of rage, challengings, and darings about that letter I writ against the uncivil carriage of his people at their Bull-baiting, saying, That I should first have convinced them that it is a sin to be it a Bull, before I had exclaim<g ref="char:EOLhyphen"/>ed against them for it: and that our speaking in the markets disturbing the peace is worse then either Bull or Bear-baiting, and said he wondred at the patience of God, that when I took the pen into my wretched hand, he
+<pb facs="tcp:48855:4"/> did not cause it to witho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> up: nay, my heart to tremble and my knees to smite one against another, and make me a spectacle of his avenged power before his Saints, and before the world; but if I repeated not of that wick<g ref="char:EOLhyphen"/>edness▪ the Lord would shortly come in flames of fire, with the Angel of his power to take vengeance on me; And he desired the Lord of Heaven and Earth, to give me a true fight of my wickedness, manifest (in that I writ to him against the Bull-baiting) and that God would cause my soul to bleed and mourn under the burthen of it: and said I had drawn away many well<g ref="char:EOLhyphen"/>meaning souls from the profession and practise of truth, which was according to truth, strongly pleading for the owning the people in this practise: plead<g ref="char:EOLhyphen"/>ing that Christ eat with Publicans and sinners, and that the <hi>Hebrews</hi> Church was such a mix: multitude as was accustomed to meet in the Jewish Syna<g ref="char:EOLhyphen"/>gogues, and that the meaning of that Scripture <hi>Heb.</hi> 10. 25. was so, and that none could be free from the very being of corruption in them, whilest they are on this side Heaven; and this truth he would undertake largely to prove from Scripture, if I should say to the contrary; and having owned them, and pleaded to them (in their practise) and his own, and railed against me (with these and many more bitter words) for writing against their pra<g ref="char:EOLhyphen"/>ctise, then he demands of me, why it is not as much the fruits of my ministe<g ref="char:EOLhyphen"/>ry as of his? And now all may see if this man matter what he says, who owns these people for his slock, takes their Tyths for teaching them; and when any is moved to declare against these vanities in markets, or high pla<g ref="char:EOLhyphen"/>ces, he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ays, it is worse then either Bull or Bear-baiting, and calls it breaking the peace, and threatens me with plagues God will powre on me, except I repent of what I had writ in my letter to him against it, and all such practise, and hath spoken to the Magistrates, that none may be suffered to exhort the people in the High-place against any such practises, but calls a disturbance of their worship, and yet says our ministery is as guilty of the sin of the people as his is, when he will not suffer the truth by us to be ministered to them: but if any do, they must suffer for it; And thus the Lord (out of their own mouths) is laying open the deceits of their hearts; for the day of revealing the man of sin is come, and the Lord is at work throughout the Nations. And now all people that fears the Lord loves your souls, take heed how you op<g ref="char:EOLhyphen"/>pose your selves to uphold what he is casting down, or to cover what he is revealing, lest his wrath break out upon you also, and he that helpeth, and he that is holpen fall together; It is for your sakes that they are so plainly laid open that all may see, but who is willing to be blind. And when he had ended his letter filled with such stuff as before mentioned, he says its the Lords advice to me; but that Lord I deny, and his advice who pleads for sin and sects, Bull-baiting and Bear-baiting, above the servants o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> God who re<g ref="char:EOLhyphen"/>proves sin in the gate.</p>
+                  <closer>
+                     <signed>J. N.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <div type="part">
+               <pb facs="tcp:48855:5"/>
+               <head>Some passages about the Dispu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</head>
+               <p>THe day the Priests had appoynted drawing nigh, I came over <hi>Trent</hi> to goe to <hi>Chesterfield,</hi> to be there at the time appointed, to bear witress to t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Truth; and being shewed the many plots laid to have me cast in Prison, and to prosecute their bloody Intents against me, the Enemy presented strong Temp<g ref="char:EOLhyphen"/>tations to draw me back, and not to goe on; But my mind being kept with my Father in his Will to stand, the power of the Lord arise; <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Standard was lifted up, which is my strength in all my bonds and sufferings; and the love of God was shed abroad towards his tender plants which he had planted in those parts, and for their sakes I was made willing to lay downe life and all, that God might be honoured in them, and they preserved in the faith of Christ which they had received. And so with joy I came to the Towne early in the morning, and hearing that they had a Plot first to begin their Service (as they call it) and then if I spoke I was within their Law; I went up to the high place before they be<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n about an houre, and walked in their high place, where I was shewed that if I would stand in the Counsell of my father, the snare should be discovered, and I should escape; after a while I sent two men to the Priests to bid them come up according to their challenge, answer came that they stayd for some more of their Brethren, they would come by and by: then I enquired which doore he came in at, and the people sayd at the lower doore, then I walked to that doore and there stayed, that I might speake to them before they began, but not long after the people told me he was going towards the other doore: whereupon I hasted out and up the yard, and got the Porch before them, and perceaving which was, the Priest of that Towne, I sayd, Friend thou hast accused me behind my back, to be a Blasphemer, a seducer, and persecuter <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Antichrist, now prove it to my face before the people, but he would not stay, but as he went looked back, say<g ref="char:EOLhyphen"/>ing thou hast been a Souldier, but I am not so hardy, we will goe in; so I went in with them, and when we were within, I said now prove thy accusations, cal<g ref="char:EOLunhyphen"/>ling earnestly to him; but to their usuall place they got, and there they lifted up their eyes and hands towards heaven (but blood in their hearts) and began to make a praying, then▪ was I moved to goe out from amongst them, and went downe to a meeting of friends that was in the Towne, but seing that I was gone they ceased their Service &amp; began to aske for me, and a prosessor in the Towne came and and told mee; then went I up to the high place againe, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut was not to go in, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut as I was going I met with the Townes Mayor, &amp; spoke some words to him, who was very moderate, and sayd he would keep peace, and would have had <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e in, but I told him they h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d beg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n their work, and in their time I should not goe in: further, I sayd let it be manifest this day to thee and all Magistrates in the Nation, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t we have no mind to break the Law unless the Lord move us, though that Law is contrary to Scripture, therefore let them come forth into
+<pb n="9" facs="tcp:48855:5"/> the yard, the weather is calme; so he went in, but they would not come forth, so he came againe and wished <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to come in, and some others wished the same, saying there was no plot; upon which I was moved to charge some there in the presence of God, to speake what they knew as to the plot, and they said they did beleeve such a thing; then sayd the Mayor none can imprison here but I, and thou shalt not be imprisoned for it: I answered, I beleeve tho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> intendst not to imprison mee for it, but thou canst not secure mee, here are Priests out of all Quarters, and if complaint be made twenty miles from this place, that I broke the Law, a Justice in the Countrey will say he must execute it upon me, and thou canst not keep me free; the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was I moved to speake these word<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, if thou wilt goe in and bring them forth to confesse they have done the worke they have begun, then I shall go in, so he returned, &amp; after a while they came forth and confessed they had done, so in I went, where there was many hundreds of people, and as some who knew them have said since above twenty Priests, though divers had changed their colours from b<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ck to gray. The things they would dispute upon were what they themselves had chosen, so that there was no place for any other thing, that I would have had them to have proved as their owne practice, <hi>&amp;c.</hi> Yet they would often take liberty to aske many tempting Questions to ensnare, as whether the Scripture were the word, and the writings of <hi>Mathew, Marke, Luke,</hi> and <hi>John</hi> the Gospel, which they went about to prove but could not, and when I said the Gospel was before <hi>Mathew, Marke, Luke</hi> and <hi>John</hi> wrote that: the high Priest said he would prove the contrary, and brought that of <hi>Mark</hi> the first, <hi>The beginning of the Gospel of Jesus Christ,</hi> &amp;c. Then I asked him if the Go<g ref="char:EOLhyphen"/>spel was not before those words were written, but his mouth was stopt as to that thing, and the snare layd to no purpose, (through the love of my father) in these two things, <hi>viz.</hi> that if any say the Scriptures are not the word, and the foure Books the Gospel, they say they have a Law against such▪ &amp; by that Law some of the servants o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God now are in bonds: though the Scripture say that God is the word, and Christ is the glad tydings: And thus we suffer for speaking what the Scriptures speaks, be<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g mo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed thereto of the Lord: but he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ein is ma<g ref="char:EOLhyphen"/>nifest the Saints obedience and patience, and the Serpents subtilty. Then the snare being brokē they ceased their faire spee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, &amp; beg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n to shew their hea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts: saying, I deserved to be hanged, calling me de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ate k<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve, bidding sye upon me, wishing mee out of the world, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll my followers, g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ashing upon mee (<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of them) with their t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th, and when I spoke the words of the Scripture, the high Priest said, that<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll; and such co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>upt speeches; and when I had reproved the High Priest twi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, that if I would sweare that he swore, he should be punished: I answered▪ must I c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mmit one sinne to have another punished; they said it was lawfull, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Magist<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>te commanded it, which I challenged them to prove, but they could not, b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> any Command or practise of Saints in Scripture, but br<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ght that in the <hi>Hebrewes,</hi> where <hi>Paul</hi>
+                  <pb n="10" facs="tcp:48855:6"/> uses a Comparison of mens practise, <hi>that men swear by the greater▪</hi> and to this they added a lye, and said <hi>all men,</hi> which the Saints never used but said, <hi>swear not at all;</hi> as Christ our Saviour said before them; And said <hi>Paul, an <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ath amongst men,</hi> but doth not say, <hi>an oath among them, is the end of all strife;</hi> for to the Saints all strife is ended by the everlasting Covenant, without swearing, who sayth, <hi>swear n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t at all by any <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ath whatsoever, for you cannot make <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne haire white or blacke,</hi> which these Priests set themselves with all their strength, adding many lyes to prove swearing lawfull, and to justifie his swearing contrary to these plain Commands of Christ; in this they spent much time, and in pleading for lying also, for when I heard them tell many lyes, I told them of it, they cur<g ref="char:EOLhyphen"/>sed mee, and said I was unmannerly to give them the lye, which is Scripture Language used by Christ and the holy men of God, who alwayes called a lye, by the name of a lye, and never would hide the Devils work under a fine name, but was sent to lay him open and his works, who is the father of the lye in thee lyar (and one of them threatened mee, that if he could meet me he would teach mee to call lyar:) though the murderer now say it deserves a stab or a stroake. And thus they are one in the worke of their father the lyar and murtherer; and all that pleads for his workes. And when I said no lyar must enter into the King<g ref="char:EOLhyphen"/>dome, another said, none then must enter, for all were lyars. And thus they set to their shoulders one after another to uphold their fathers kingdome that it should not be beat downe, before the people, as many hundreds can witnesse: and when they could not prove lying lawfull, another Priest said, that every un<g ref="char:EOLhyphen"/>truth is not a lye, and when I bid him prove that, he said he would doe it ano<g ref="char:EOLhyphen"/>ther time; they also pleaded the letter to be the Word, and the writings of <hi>Mathew, Marke, Luke</hi> and <hi>John</hi> the Gospel, and would have proved it if they could: plainly shewing that they know not the Word nor Gospel which is in<g ref="char:EOLhyphen"/>visible and spirituall; they also denyed that any thing could be seen that is invi<g ref="char:EOLhyphen"/>sible; &amp; when I asked how Christ was seen of <hi>Paul,</hi> they said visibly, &amp; brought to prove it, <hi>Acts 1. 11. Ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> men of Galilee the same Jesus shall so come in like manner as you have seene him goe into heaven;</hi> Then I asked them, if he was so come againe, and one of them said yea and another nay: another denyed that the grace of God could appeare to all men, because it is invisible, denying that Scripture, <hi>Titus</hi> 2. 11. and that also affirmed that the Scriptures were the way to know God, and not by Revelation, denying the words of Christ, who saith, <hi>No man can know the Father but he to whom the sonne reveales him;</hi> they sayd also there is <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> a Word of God which is not of him, nor one with him: That the Law of God is not eternall, and that the Law <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> God wrote with his owne finger was not one with him: That men are not to looke to any light within them for Direction to salvation, that the light is not in every man, because all are not enlightened by it; contrary to that Scripture, <hi>John</hi> 1. 9. 2 <hi>Cor.</hi> 4. 6.
+<pb n="11" facs="tcp:48855:6"/> that they that turned from Darknesse to light, turned not to any light within them: That the Kingdome of God is not to be looked for within unbeleivers; and when I proved it <hi>Luke</hi> the 17. 21. they sayd the Pharisees were beleevers: That the Law of God written in the heart, is so farre obliterated that it cannot discover Christ. When God sayth by that law, <hi>all shall know him from the least to the greatest,</hi> Heb. 8. 10, 11. That all must live in the flesh and the world while they are on earth; contrary to these Scriptures, <hi>Rom.</hi> 8. 8, 9. <hi>John</hi> 15. 19. That the Scriptures are the Word, and brought this to prove it, <hi>Let the word of God dwell in you,</hi> &amp;c. as though the Bible must be in them: but such know not God in them who is the Word; and the high Priest said that I said they had not the light in them, which was a lye, and when I told him so and bid him speake the truth, he said he spoke the Word of God, which was proved a lye to his face, he sayd also that I owned another Christ besides that which dyed at <hi>Jerusa<g ref="char:EOLhyphen"/>lem,</hi> because I owned a Christ within mee, contrary to the Apostles Doctrine, who preached Christ within, <hi>C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> 1. 27. and did not preach another Christ▪ they sayd also that Christ did not Convince the world, because the world can<g ref="char:EOLhyphen"/>not receive him: contrary to the words of Christ. <hi>John</hi> 16. 8, 9. That it is law<g ref="char:EOLhyphen"/>full for them to be called Masters: and brought to prove that of <hi>John</hi> 3 <hi>Epist:</hi> 9. <hi>verse,</hi> where <hi>Di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ph<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> who loved to have preheminence; and sayd Christs words were not, <hi>Be not ye called Master;</hi> but <hi>love not to be called Master, Math.</hi> 23. 8. And that they did not love it, that were the Pharisees that loved it. But all the Pharisees you read on never pleaded so much for it in all their lives as the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Priests did that day, but could finde no proofe in Scripture, that they could wrest towards it: but cryed <hi>Master Mayor Commands you to depart,</hi> and that was their best weapon when Scripture served not: but in all this I could not ge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them to prove their owne practise, nor to prove mee a persecuter, blas<g ref="char:EOLhyphen"/>phemer, seducer, and Antichrist, which I proffered to prove them before all the people, but that they would not meddle in: but said, it was not in the Questi<g ref="char:EOLhyphen"/>ons intended; then I was moved with a loud voyce for the peoples sake, who they lead blind in a blind way and worship, to utter these words; '<hi>People it may be you n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r heard as much before, here I chall<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nge <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll here to prove any one thing they perform<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in these High places, or Id<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lls Temples, to be according to Scrip<g ref="char:EOLhyphen"/>ture, any <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne thing they call Worship, to be as the Ministers of Christ performed in Scriptures, declared without wresting.</hi> But to this none that I heard would give any answer at all, so presently after was I carryed out by the Mayor of the Towne, who carryed himselfe civilly towards mee, and so did the people also. Many other passages there was which might have been serviceable to have laid them further open, but the Writers being on their appoynting, they are kept secret, and were not read to the people, though they so promised before they began.</p>
+               <pb n="12" facs="tcp:48855:7"/>
+               <p>And now you poore deluded people, see your blindnesse, and how you be<g ref="char:EOLhyphen"/>tray your owne soules, to believe and follow such as are out of the Saints pra<g ref="char:EOLhyphen"/>ctice, both in worship, doctrine, and manners, which I dare undertake to prove against all the High-place worshippers in this Nation, that not any thing they performe there they call worship, that is according to plaine Scripture, without wresting, and how shall these le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m to God in any thing who are out of the Saints practice in all things they call w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rship? And with the life of the Scripture they are judged not to have the forme of godlinesse, much more not the power.</p>
+               <p>Not long after, I received a Letter from the High-Priest, who subscribes his name <hi>Immanu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l Bourne,</hi> wherein he desired <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to send him the Ans<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers to their seaven Questions, which they would not suffer me to read before the peo<g ref="char:EOLhyphen"/>ple, which Answers I lest with the Mayor of the Towne, to be given them. And in the conclusion of his Letter he confesseth he hath re<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ived them. He sent also a cover for the two Oath<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he swore in his dispute, adding lying to co<g ref="char:EOLhyphen"/>ver swearing; when he swore th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, he pleaded they were no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ths, because by, went not before <hi>M<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y▪</hi> but having had the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Stu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and Libra<g ref="char:EOLhyphen"/>ry, now he hath found that out that will cover <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="4 words">
+                     <desc>〈◊◊◊◊〉</desc>
+                  </gap>▪ that it was not <hi>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry,</hi> but marry, which he swore; a <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> agreement in Marriage; and that th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is a true sence of t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> no more: And that he did it to declare his agreement or <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, or done. As much a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to say, I agree <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> (<gap reason="illegible" resp="#keyers" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> hundreds may witnesse, that both his Oaths were to <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>) And <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th he, this I use sometimes; but to swear by <hi>Mary</hi> openly, o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>▪ that's a sin. But he did never swear an Oath since he was borne, except be<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re some who had Commidion, <hi>&amp;c.</hi> Or that upon some speciall occasion, he called God himselfe to witnesse. Thus the Serpent hath shewed his crooked way to get a hole to hide himselfe, but it is but from him that's blind, for who is in the light of Christ see thee <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n thy hole, and thy covering too nar<g ref="char:EOLhyphen"/>row, and to judgement th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u must come, with the light to be judged, which thou hidest thy deeds from, and hatest. But had he had this ready when he was reproved before the people, it might perhaps have spared a great deale of time that was spent to cover it otherwise, but he could not; but some<g ref="char:EOLhyphen"/>times the Serpent hath his wit to seek, when he stands in most need of it, that the word of the Lord may be fulfilled, <hi>I will confound the wisedome of the wise, and the understanding of the prud<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt shall be hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Blessed is he who is fulfilling his word at this day. And upon this wicked Generation, who thus make it their work to teach people to sin (by their practice) and also to cover it by their policy, and now having found out this cover, and by subtilty strengthen<g ref="char:EOLhyphen"/>eth the wicked hand▪ T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he sees me to be in the fault, for reproving him for
+<pb n="13" facs="tcp:48855:7"/> swearing, and sayes, he cannot so hate me, as to suffer such a sin to be upon me, if he can remove it, and therefore he admonisheth me to repent of it. And thus having put out his owne eyes, he sure thinks all are blind about him. And it's no wonder that such should affirme, That none ought to look to any light within, for direction to salvation: And let every child of light judge if these be not blind guides, though they would not be knowne so to be, but call it rail<g ref="char:EOLhyphen"/>ing. Further, he desired that I would send him any other Questions, and they should be answered in writing. He sayes further, the confusion was so great, because of me, and others, that he could not know my certain Answers to the Questions, though in the close of his Letter he saith, He hath received them in writing, whereupon I writ to him, as followeth.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>FRIEND,</salute>
+                     </opener>
+                     <p>I <hi>Have received a Paper, wherein is desired an Answer to the Questions, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h afterward th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>u hast received: Th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> also desirest me to sent thee any other Questions, and sty<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>st they shall be answered in writing, which I have done accordingly, and have sent a few here inclosed, which if thou, and the rest of you return<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> an Answer in plainnesse, you may therein manifest the ground of your Ministry, which may be serviceable to the <gap reason="illegible" resp="#keyers" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>le body. Let me have an Answer before I g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e out of the Countrey, that there be no back-biting, or secret slan<g ref="char:EOLhyphen"/>dering.</hi>
+                     </p>
+                     <p>
+                        <hi>For the confus<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>n th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lls <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n, it was manifest where it was, and casting it up<g ref="char:EOLhyphen"/>on others, will n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t clear the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, and the rest of thy Brethren; nor will the cl<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>k thou hast put up<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> thy swearing, <gap reason="illegible" resp="#keyers" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> thee. The light is risen, thy mist can blind n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ne, the <gap reason="illegible" resp="#keyers" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>f <gap reason="illegible" resp="#keyers" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> sw<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ping aw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y, n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ither sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lt thou had any, but who is willing t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lind, for the mighty day <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ming on <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>pac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, and till then I leave you to the wi<gap reason="illegible" resp="#keyers" extent="6 letters">
+                              <desc>••••••</desc>
+                           </gap> of God in your conscience, which l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ts <gap reason="illegible" resp="#keyers" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> see your envi<g ref="char:EOLhyphen"/>ous bloody minds, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> it arises, and your reward that shall be answera<g ref="char:EOLhyphen"/>ble: At that day it shall appear you have been warned, whil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> you had time to re<g ref="char:EOLhyphen"/>pent, from a lover of y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ur <gap reason="illegible" resp="#keyers" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>.</hi>
+                     </p>
+                     <closer>
+                        <signed>James Nayler.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>These Queries following I sent them, in Answer to his desires.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="queries">
+                           <p>Quer: 1. <hi>What was the fruites of man before the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                                    <desc>••</desc>
+                                 </gap>ll, and from what ground did they arise? And whether any one <gap reason="illegible" resp="#keyers" extent="2 words">
+                                    <desc>〈◊◊〉</desc>
+                                 </gap> the fall, shall bring forth the same fr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>its, or from the same ground, or fruits <gap reason="illegible" resp="#keyers" extent="1 word">
+                                    <desc>〈◊〉</desc>
+                                 </gap>, or fruits better? And from what different grond shall they arise, and whether they shall be visible to the world, a witnesse against all that abide in the fall?</hi>
+                           </p>
+                           <p>Qu: 2. <hi>What the Tree of Kn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>wledge is, which is forbidden, where it is, and how it may be knowne with its fruits?</hi>
+                           </p>
+                           <p>Qu: 3. <hi>What that death is which hath passed over all men? And what it is that dyeth that day the forbidden is eaten, seeing the old</hi> Adam <hi>may live many▪ years after?</hi>
+                           </p>
+                           <pb n="14" facs="tcp:48855:8"/>
+                           <p>Qu: 4. <hi>What was the condition before Moses: how came you to Moses: through Moses and the Prophets to John: and through his Ministery, and how came into the Kingdome, and what were the severall measures of God you knew in passing through these severall Administrations: or which of these Administrati<g ref="char:EOLhyphen"/>ons are you in now: and how may others know to come through these, and when they are in them: it being that one <gap reason="illegible" resp="#keyers" extent="2 letters">
+                                    <desc>••</desc>
+                                 </gap>t must not passe till all be fulfilled: and how is the least in the kingdome greater then John: seeing John saw Christ face to face?</hi>
+                           </p>
+                           <p>Qu: 5. <hi>What that kingdome of God is which Christ said was within the Pha<g ref="char:EOLhyphen"/>risees, and whether any one be to looke for that kingdome within them?</hi>
+                           </p>
+                           <p>Qu: 6. <hi>What and where that new Jerusal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>m is which came downe from hea<g ref="char:EOLhyphen"/>ven, in which there is no night, nor needs the light of Sunne, Moone, or Candle, for the Lord God and the Lambe is the light of it, which though the Gates be ne<g ref="char:EOLhyphen"/>ver shut, yet nothing that d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>files <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>r mak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>s a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ly can <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>nter?</hi>
+                           </p>
+                           <p>Qu: 7. <hi>What and where that Sion is to which all Nations shall flow, where the Lord shall teach th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>m of his wayes, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap> fr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                    <desc>••</desc>
+                                 </gap> wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>nce his Law and W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>rd shall goe forth, and they shall say, come let us walke in the light of the Lord?</hi>
+                           </p>
+                           <p>Qu: 8. <hi>What and where that uncti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>n an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap> an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>inti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>g is, by which the Saints know all things, and needed not that any should teach t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                    <desc>••</desc>
+                                 </gap>m▪ but as the a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>oynting taught them of all things that were true, and in it was no ly<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>, and may any come to that teaching in these dayes?</hi>
+                           </p>
+                           <p>Qu: 9. <hi>What that spirit of truth is which is promised to lead into all truthes, shewing things to come, even the things of Christ, and shall glorifie him, and whe<g ref="char:EOLhyphen"/>ther it be within those that have it yea or nay?</hi>
+                           </p>
+                           <p>Qu: 10. <hi>What that W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>rd of faith is that saith n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ne needs to send up to heaven to bring Christ</hi> &amp;c. <hi>but is nigh in the heart, and in the mouth▪ which the Apostles preached to them that had it in th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ir hearts, and whether it be the same now in these dayes?</hi>
+                           </p>
+                           <p>Qu: 11. <hi>What that grace of God is that brings Salvati<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>n, and hath appeared to all men: which teacheth the Sants to d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ny all ungodlin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>sse and worldly lusts: and whether it would n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>t teach all the same now▪ if th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>y did n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>t turne it into las<g ref="char:EOLhyphen"/>civiousnesse: and how the G<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                    <desc>••</desc>
+                                 </gap>pel was preach<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>d t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>
+                                 <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>very creature which is under heaven?</hi>
+                           </p>
+                           <p>Qu: 12. <hi>What the Tree of life is, and what the flam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ing sword and Cherubims is: and how man may come to the Tree of life? What is to be cut downe and burnt up in man, before he come to the Tree of life and where that 'Paradise is, that man was Driven <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ut of, with its ground▪ and wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>t ground he was Drove into: and how the flameing sword parts these two grounds?</hi>
+                           </p>
+                           <p>Qu: 13. <hi>What that worship in spirit is, God alone seekes to be worshipped in: and can any▪ worship in Spirit▪ but he that is borne of the Spirit: and is not that
+<pb facs="tcp:48855:8"/> Spirit of which he is borne, Sufficient to teach in that spirituall worship, without the helpe of man?</hi>
+                           </p>
+                           <p>Qu: 14. <hi>What is that you Minister from, and what is that (in man) you Mi<g ref="char:EOLhyphen"/>nister to: and whether that which you Minister to, be pure or no: And whether you would have had that Ministery, which you have, had you never se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>n <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>etter, o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap> had pay for it?</hi>
+                           </p>
+                           <p>Qu: 15. <hi>What and where, that tongue of Egypti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>n S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>a, and that River Eu<g ref="char:EOLhyphen"/>phrates is: which must be dry<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>d up that way may be made for the Kings of the East: and what are the S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>av<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>n streames th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>r<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                    <desc>••</desc>
+                                 </gap>?</hi>
+                           </p>
+                           <p>Qu: 16. <hi>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>e you know God: or did you ev<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>r heare his Immediate voyce, as the Saints have done, or do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap> you owne Revelations and ▪Proph<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>sies, as the Saints have <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ver done, which the world that knowes n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>t God, could never owne nor bele<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ve?</hi>
+                           </p>
+                           <p>Qu: 17. <hi>What that Beast is, who hath the names of Blasphemy upon his head; and what the number of his names is: and whether lyars and swearers be within his number?</hi>
+                           </p>
+                           <p>Qu: 18. <hi>Did ever any of the Ministers of Christ cause any to be imprisoned, or suffer any to be beaten in their meeting places, and haled before Rulers for speak<g ref="char:EOLhyphen"/>ing to them, in or after the time of their worship, or counted it a disturbance, or re<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                    <desc>••</desc>
+                                 </gap>v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>d Tythes, or any other thing▪ c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ntrary to th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap> will of the owner▪ under any pre<g ref="char:EOLhyphen"/>tence whatsoever, or were called of men Master: or did beare R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>le by their meanes, or sought for their gaine from their Quarter: or were not these the fruits of the false Prophets &amp; hirelings, s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                    <desc>••</desc>
+                                 </gap>ing Christ saith, By their fruits ye shall know them?</hi>
+                           </p>
+                           <p>Qu: 19. <hi>What the seed of the Serpent is▪ and what is the seed of the Woman, and whether they be within people or <gap reason="illegible" resp="#keyers" extent="3 letters">
+                                    <desc>•••</desc>
+                                 </gap>and how each may be known by their fruits, and what that enmity is that is put between them▪ and from what ground doth it arise, and are not cursers, swearers, lyars, Quarrellers, persecuters, that beat in the Synagogues, and hale to prison for the truthes sake of the Serpents Brood, and are not they that all ages, hath patiently suffered these things, of the seed of the Woman, which thereby must bruise the Serpents head?</hi>
+                           </p>
+                           <p>Qu: 20. <hi>Is not ly and lyar, spirituall Language used by Christ and the holy men of God, to those that were found in that practise, speaking lyes to oppose the truth, though they were Cheife Priests and Pharisees as the Scriptures doth wit<g ref="char:EOLhyphen"/>nesse: or did ever any who were guided by the Spirit of truth cover a lye with a siner name, least they should displease the father of it: or what Scripture have you for cursing, bidding fye upon mee, wishing that I had never been borne, and that I were out of the world, calling me desperate knave, and when I spake the words of Scripture, to say thats a Bull: and that I deserved to be hanged; and divers such like words, you Parish teachers uttered sorth against mee, in the holy High place in the Dispute: Search the Scriptures and see if these be not from the spirit of the Devill?</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <pb facs="tcp:48855:9"/>
+               <p>But none of these Queries could I get answered by them, though they be<g ref="char:EOLhyphen"/>gan the first, and begged the last.</p>
+               <p>And now let every honest heart judge, by what spirit these men are guided▪ which for their owne wicked ends can make Challenges, and gather together many h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndreds of people of their owne Sect, yea, into their High places▪ and this they count no disturbance to States Government. But if the despised ones of the world doe but meet to waite upon God in that Ordinance in which they find him appearing to them, either in House or Field (who are not thought worthy to meet in their Townes (but stoned and haled out) and this they perswade their Magistrates is not sit to be suffered, but informe and Petition against it, under pretence of plotting against the present Government; when it's knowne, that most of us have adventured life and estate for the present po<g ref="char:EOLhyphen"/>wer, but never Plotted against it, as most o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them have done, witnesse their Plots, Prayers, and false Prophecies, against the Army, though now they flye to it for shelter against us, who use no weapon but the word of God. And thus we are become Enemies without cause, but God whom we serve, shall judge for us, and clear our Innocency, for him (alone) we have to take our part.</p>
+               <p>And also I appeale to the light of Christ in all consciences, if this were not as great offence, both against the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r High-place, worship, and persons, and against the Lord too (which they pret<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd) <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or me to be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oure or five houres disputing with them in their High-P<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> before the people, openly denying their false worship, doctrine, and manners, as it is for any one that is moved of the Lord to speak some few words in the same place: But onely that this was in their owne wills, and the other in the will of God And thus the Lord is re<g ref="char:EOLhyphen"/>vealing how unwilling men of corrupt Principles are, that the will of God should be done in the Earth, when it's contrary to their Earthly pleasures▪ and what Pretences they have to stop it; but when their owne ends put them on it, then it's no offence accounted.</p>
+               <p>And let every one that hungers after God, consider how these should lead you to him who is pure, and to whom no uncle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n thing can come, who some of them▪ though they have been professed <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chers of others fifty or sixty years, (and accounted eminent) but yet they themselves are open swearers, and ly<g ref="char:EOLhyphen"/>ars, and cannot forbear it, even before such a multitude; yea, when they are about to seek the most praise of men. But where God is denyed to be Guide, there he will be Judge, and their folly he will manifest, who have chosen their owne wayes.</p>
+               <closer>
+                  <signed>J. N.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48855:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
